@@ -1,6 +1,7 @@
 {
 	// Sets the colors used within the text area
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	// "color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
 
 	// Note that the font_face and font_size are overriden in the platform
 	// specific settings file, for example, "Base File (Linux).sublime-settings".
