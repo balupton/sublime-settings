@@ -8,7 +8,9 @@ Installation for Sublime Text 2 on OSX:
     cd ~/Library/Application\ Support/Sublime\ Text\ 2
     git init
     git remote add origin https://github.com/balupton/sublime-settings.git
-    git pull origin master
+    git pull origin master  --force
+    git submodule init
+    git submodule update
 
 Quit and restart Sublime Text 2.
 

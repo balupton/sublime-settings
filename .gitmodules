@@ -1,3 +1,6 @@
 [submodule "Packages/CoffeeScript"]
 	path = Packages/CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "Packages/SublimeLinter"]
+	path = Packages/SublimeLinter
+	url = git://github.com/Kronuz/SublimeLinter.git
