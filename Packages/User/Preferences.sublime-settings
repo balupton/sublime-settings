@@ -1,33 +1,18 @@
 {
-  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
-  
-  // Sets the colors used within the text area
-  "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
-
-  // Note that the font_face and font_size are overriden in the platform
-  // specific settings file, for example, "Base File (Linux).sublime-settings".
-  // Because of this, setting them here will have no effect: you must set them
-  // in your User File Preferences.
-  "font_face": "Monaco",
-  "font_size": 12,
-
-  // The number of spaces a tab is considered equal to
-  "tab_size": 4,
-
-  // Set to true to insert spaces when tab is pressed
-  "translate_tabs_to_spaces": false,
-
-  // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
-  // backspace insert/delete up to the next tabstop
-  "use_tab_stops": true,
-
-  // Set to false to disable detection of tabs vs. spaces on load
-  "detect_indentation": true, // false
-
-  // Set to true to removing trailing white space on save
-  "trim_trailing_white_space_on_save": false,
-
-  // Set to true to ensure the last line of the file ends in a newline
-  // character when saving
-  "ensure_newline_at_eof_on_save": false
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"detect_indentation": true,
+	"ensure_newline_at_eof_on_save": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Monaco",
+	"font_size": 12,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false,
+	"use_tab_stops": true
 }

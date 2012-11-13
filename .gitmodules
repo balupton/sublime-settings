@@ -4,3 +4,6 @@
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = git://github.com/SublimeLinter/SublimeLinter.git
+[submodule "Packages/MarkdownEditing"]
+	path = Packages/MarkdownEditing
+	url = git://github.com/ttscoff/MarkdownEditing.git
