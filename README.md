@@ -1,5 +1,13 @@
 # [Benjamin Lupton's](http://balupton.com) [Sublime Text 2](http://www.sublimetext.com/2) Settings
 
+## Features
+
+- CoffeeScript Support via [coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle)
+- Inline Linting via [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
+- Awesome Markdown Editing via [MarkdownEditing](https://github.com/balupton/MarkdownEditing)
+- Stylus Support
+- My keymaps, snippets and preferences
+
 
 ## Installation
 
