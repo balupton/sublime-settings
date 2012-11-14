@@ -11,6 +11,11 @@
 
 ## Installation
 
+### Fonts
+
+1. Install the [Monaco Font](https://github.com/cstrap/monaco-font)
+1. Install the [Lato Font](http://www.google.com/webfonts#UsePlace:use/Collection:Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic)
+
 ### OSX
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2
