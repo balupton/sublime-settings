@@ -7,3 +7,6 @@
 [submodule "Packages/MarkdownEditing"]
 	path = Packages/MarkdownEditing
 	url = git://github.com/balupton/MarkdownEditing.git
+[submodule "Packages/ApiaryBlueprint"]
+	path = Packages/ApiaryBlueprint
+	url = git://github.com/lkraider/sublimetext2-apiary-blueprint.git
