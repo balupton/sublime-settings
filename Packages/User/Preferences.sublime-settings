@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"detect_indentation": true,
+	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": false,
 	"folder_exclude_patterns":
 	[
