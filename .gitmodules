@@ -10,3 +10,6 @@
 [submodule "Packages/ApiaryBlueprint"]
 	path = Packages/ApiaryBlueprint
 	url = git://github.com/lkraider/sublimetext2-apiary-blueprint.git
+[submodule "Packages/Emmet"]
+	path = Packages/Emmet
+	url = git://github.com/sergeche/emmet-sublime.git
