@@ -1,6 +1,15 @@
 [submodule "Packages/CoffeeScript"]
 	path = Packages/CoffeeScript
-	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+	url = git://github.com/jashkenas/coffee-script-tmbundle.git
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = git://github.com/SublimeLinter/SublimeLinter.git
+[submodule "Packages/MarkdownEditing"]
+	path = Packages/MarkdownEditing
+	url = git://github.com/balupton/MarkdownEditing.git
+[submodule "Packages/ApiaryBlueprint"]
+	path = Packages/ApiaryBlueprint
+	url = git://github.com/lkraider/sublimetext2-apiary-blueprint.git
+[submodule "Packages/Emmet"]
+	path = Packages/Emmet
+	url = git://github.com/sergeche/emmet-sublime.git
