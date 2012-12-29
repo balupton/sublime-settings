@@ -2,10 +2,13 @@
 
 ## Features
 
-- CoffeeScript Support via [coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle)
-- Inline Linting via [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
-- Awesome Markdown Editing via [MarkdownEditing](https://github.com/balupton/MarkdownEditing)
-- Stylus Support
+- Packages
+    - [apiary-blueprint](https://github.com/lkraider/sublimetext2-apiary-blueprint) for [Apiary](http://apiary.io/) support
+    - [coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle) for [CoffeeScript](http://coffeescript.org/) support
+    - [Emmet](https://github.com/sergeche/emmet-sublime) for [Emment/Zend-Coding](http://emmet.io) support
+    - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline linting
+    - [MarkdownEditing](https://github.com/balupton/MarkdownEditing) for awesome visual markdown editing (like byword and iawriter)
+    - Stylus for [Stylus](http://learnboost.github.com/stylus/) support
 - My keymaps, snippets and preferences
 
 
