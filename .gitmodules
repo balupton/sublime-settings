@@ -13,3 +13,15 @@
 [submodule "Packages/Emmet"]
 	path = Packages/Emmet
 	url = git://github.com/sergeche/emmet-sublime.git
+[submodule "Packages/ColorPicker"]
+	path = Packages/ColorPicker
+	url = git://github.com/weslly/ColorPicker.git
+[submodule "Packages/CanIUse"]
+	path = Packages/CanIUse
+	url = git://github.com/Azd325/sublime-text-caniuse.git
+[submodule "Packages/Gist"]
+	path = Packages/Gist
+	url = git://github.com/condemil/Gist.git
+[submodule "Packages/Alignment"]
+	path = Packages/Alignment
+	url = git://github.com/wbond/sublime_alignment.git

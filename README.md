@@ -3,13 +3,16 @@
 ## Features
 
 - Packages
-    - [apiary-blueprint](https://github.com/lkraider/sublimetext2-apiary-blueprint) for [Apiary](http://apiary.io/) support
-    - [coffee-script-tmbundle](https://github.com/jashkenas/coffee-script-tmbundle) for [CoffeeScript](http://coffeescript.org/) support
-    - [Emmet](https://github.com/sergeche/emmet-sublime) for [Emment/Zend-Coding](http://emmet.io) support
-    - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline linting
-    - [MarkdownEditing](https://github.com/balupton/MarkdownEditing) for awesome visual markdown editing (like byword and iawriter)
-    - Stylus for [Stylus](http://learnboost.github.com/stylus/) support
-- My keymaps, snippets and preferences
+	- []
+	- [Apiary Blueprint](https://github.com/lkraider/sublimetext2-apiary-blueprint) for [Apiary](http://apiary.io/) support
+	- [CanIUse](https://github.com/Azd325/sublime-text-caniuse) for [CanIUse](http://caniuse.com/) support
+	- [CoffeeScript](https://github.com/jashkenas/coffee-script-tmbundle) for [CoffeeScript](http://coffeescript.org/) support
+	- [Emmet](https://github.com/sergeche/emmet-sublime) for [Emment/Zend-Coding](http://emmet.io) support
+	- [Gist](https://github.com/condemil/Gist) for [Gist](https://gist.github.com/) support
+	- [MarkdownEditing](https://github.com/balupton/MarkdownEditing) for awesome visual markdown editing (like byword and iawriter)
+	- [Stylus](http://learnboost.github.com/stylus/) support
+	- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline linting
+	- My keymaps, snippets and preferences
 
 
 ## Installation
@@ -21,24 +24,24 @@
 
 ### OSX
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2
-    rm ./Packages/User/*
-    git init
-    git remote add origin https://github.com/balupton/sublime-settings.git
-    git pull origin master  --force
-    git submodule init
-    git submodule update
+	cd ~/Library/Application\ Support/Sublime\ Text\ 2
+	rm ./Packages/User/*
+	git init
+	git remote add origin https://github.com/balupton/sublime-settings.git
+	git pull origin master  --force
+	git submodule init
+	git submodule update
 
 ### Windows
 
-    cd '.\AppData\Roaming\Sublime Text 2'
-    rm .\Packages\User\*
-    git init
-    git remote add origin https://github.com/balupton/sublime-settings.git
-    git fetch origin
-    git checkout windows
-    git submodule init
-    git submodule update
+	cd '.\AppData\Roaming\Sublime Text 2'
+	rm .\Packages\User\*
+	git init
+	git remote add origin https://github.com/balupton/sublime-settings.git
+	git fetch origin
+	git checkout windows
+	git submodule init
+	git submodule update
 
 
 ## Suggestion
