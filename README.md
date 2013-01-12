@@ -3,7 +3,6 @@
 ## Features
 
 - Packages
-	- []
 	- [Apiary Blueprint](https://github.com/lkraider/sublimetext2-apiary-blueprint) for [Apiary](http://apiary.io/) support
 	- [CanIUse](https://github.com/Azd325/sublime-text-caniuse) for [CanIUse](http://caniuse.com/) support
 	- [CoffeeScript](https://github.com/jashkenas/coffee-script-tmbundle) for [CoffeeScript](http://coffeescript.org/) support
