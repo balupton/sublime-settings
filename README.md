@@ -21,9 +21,11 @@
 1. Install the [Monaco Font](https://github.com/cstrap/monaco-font)
 1. Install the [Lato Font](http://www.google.com/webfonts#UsePlace:use/Collection:Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic)
 
-### OSX
+### OSX/Linux
 
-	cd ~/Library/Application\ Support/Sublime\ Text\ 2
+- Ubuntu: `cd ~/.config/sublime-text-2`
+- OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 2`
+
 	rm ./Packages/User/*
 	git init
 	git remote add origin https://github.com/balupton/sublime-settings.git
