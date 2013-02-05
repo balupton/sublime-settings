@@ -26,23 +26,27 @@
 - Ubuntu: `cd ~/.config/sublime-text-2`
 - OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 2`
 
-	rm ./Packages/User/*
-	git init
-	git remote add origin https://github.com/balupton/sublime-settings.git
-	git pull origin master  --force
-	git submodule init
-	git submodule update
+``` bash
+rm ./Packages/User/*
+git init
+git remote add origin https://github.com/balupton/sublime-settings.git
+git pull origin master  --force
+git submodule init
+git submodule update
+```
 
 ### Windows
 
-	cd '.\AppData\Roaming\Sublime Text 2'
-	rm .\Packages\User\*
-	git init
-	git remote add origin https://github.com/balupton/sublime-settings.git
-	git fetch origin
-	git checkout windows
-	git submodule init
-	git submodule update
+``` bash
+cd '.\AppData\Roaming\Sublime Text 2'
+rm .\Packages\User\*
+git init
+git remote add origin https://github.com/balupton/sublime-settings.git
+git fetch origin
+git checkout windows
+git submodule init
+git submodule update
+```
 
 
 ## Suggestion
