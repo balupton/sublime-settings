@@ -23,10 +23,10 @@
 
 ### OSX/Linux
 
-- Ubuntu: `cd ~/.config/sublime-text-2`
-- OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 2`
+- Ubuntu: `cd '~/.config/sublime-text-2'`
+- OSX: `cd '~/Library/Application Support/Sublime Text 2'`
 
-``` bash
+```
 rm ./Packages/User/*
 git init
 git remote add origin https://github.com/balupton/sublime-settings.git
@@ -37,8 +37,10 @@ git submodule update
 
 ### Windows
 
-``` bash
-cd '.\AppData\Roaming\Sublime Text 2'
+- XP: `cd 'AppData/Roaming/Sublime Text 2'`
+- 7+: `cd 'Application Data/Sublime Text 2'`
+
+```
 rm .\Packages\User\*
 git init
 git remote add origin https://github.com/balupton/sublime-settings.git
