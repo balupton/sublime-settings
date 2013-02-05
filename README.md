@@ -37,8 +37,8 @@ git submodule update
 
 ### Windows
 
-- XP: `cd 'AppData/Roaming/Sublime Text 2'`
-- 7+: `cd 'Application Data/Sublime Text 2'`
+- XP: `cd 'Application Data/Sublime Text 2'`
+- 7+: `cd 'AppData/Roaming/Sublime Text 2'`
 
 ```
 rm .\Packages\User\*
