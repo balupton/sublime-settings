@@ -21,29 +21,37 @@
 
 ### Fonts
 
-1. Install the [Monaco Font](https://github.com/cstrap/monaco-font)
+1. Install the Monaco Font - [unix](https://github.com/cstrap/monaco-font), [windows](https://github.com/cstrap/monaco-font)
 1. Install the [Lato Font](http://www.google.com/webfonts#UsePlace:use/Collection:Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic)
 
-### OSX
+### OSX/Linux
 
-	cd ~/Library/Application\ Support/Sublime\ Text\ 2
-	rm ./Packages/User/*
-	git init
-	git remote add origin https://github.com/balupton/sublime-settings.git
-	git pull origin master  --force
-	git submodule init
-	git submodule update
+- Ubuntu: `cd '~/.config/sublime-text-2'`
+- OSX: `cd '~/Library/Application Support/Sublime Text 2'`
+
+```
+rm ./Packages/User/*
+git init
+git remote add origin https://github.com/balupton/sublime-settings.git
+git pull origin master  --force
+git submodule init
+git submodule update
+```
 
 ### Windows
 
-	cd '.\AppData\Roaming\Sublime Text 2'
-	rm .\Packages\User\*
-	git init
-	git remote add origin https://github.com/balupton/sublime-settings.git
-	git fetch origin
-	git checkout windows
-	git submodule init
-	git submodule update
+- XP: `cd 'Application Data/Sublime Text 2'`
+- 7+: `cd 'AppData/Roaming/Sublime Text 2'`
+
+```
+rm .\Packages\User\*
+git init
+git remote add origin https://github.com/balupton/sublime-settings.git
+git fetch origin
+git checkout windows
+git submodule init
+git submodule update
+```
 
 
 ## Suggestion
