@@ -3,12 +3,14 @@
 ## Features
 
 - Packages
-	- []
+	- [Alignment](https://github.com/wbond/sublime_alignment) for easy aligning of variables
 	- [Apiary Blueprint](https://github.com/lkraider/sublimetext2-apiary-blueprint) for [Apiary](http://apiary.io/) support
 	- [CanIUse](https://github.com/Azd325/sublime-text-caniuse) for [CanIUse](http://caniuse.com/) support
 	- [CoffeeScript](https://github.com/jashkenas/coffee-script-tmbundle) for [CoffeeScript](http://coffeescript.org/) support
+	- [ColorPicker](https://github.com/weslly/ColorPicker) for color picking
 	- [Emmet](https://github.com/sergeche/emmet-sublime) for [Emment/Zend-Coding](http://emmet.io) support
 	- [Gist](https://github.com/condemil/Gist) for [Gist](https://gist.github.com/) support
+	- [GitGutter](https://github.com/jisaacks/GitGutter#readme) for inline git visuals
 	- [MarkdownEditing](https://github.com/balupton/MarkdownEditing) for awesome visual markdown editing (like byword and iawriter)
 	- [Stylus](http://learnboost.github.com/stylus/) support
 	- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline linting

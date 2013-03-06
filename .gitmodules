@@ -25,3 +25,9 @@
 [submodule "Packages/Alignment"]
 	path = Packages/Alignment
 	url = git://github.com/wbond/sublime_alignment.git
+[submodule "Packages/GBK"]
+	path = Packages/GBK
+	url = git://github.com/akira-cn/sublime-gbk.git
+[submodule "Packages/GitGutter"]
+	path = Packages/GitGutter
+	url = git://github.com/jisaacks/GitGutter.git
