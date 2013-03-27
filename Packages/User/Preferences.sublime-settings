@@ -3,7 +3,8 @@
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": false,
-	"folder_exclude_patterns": [
+	"folder_exclude_patterns":
+	[
 		".svn",
 		".git",
 		".hg",
@@ -11,15 +12,14 @@
 	],
 	"font_face": "Monaco",
 	"font_size": 12.0,
-	"indent_guide_options": [
+	"indent_guide_options":
+	[
 		"draw_normal",
 		"draw_active"
 	],
-	"tab_size": 4,
-	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": false,
-	"use_tab_stops": true,
-	"jshint_options": {
+	"jshint_options":
+	{
+		"asi": true,
 		"boss": true,
 		"browser": true,
 		"eqeqeq": false,
@@ -37,7 +37,10 @@
 		"sub": true,
 		"trailing": true,
 		"undef": true,
-		"wsh": true,
-		"asi": true
-	}
+		"wsh": true
+	},
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false,
+	"use_tab_stops": true
 }
