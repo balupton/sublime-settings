@@ -5,6 +5,7 @@
 	"ensure_newline_at_eof_on_save": false,
 	"folder_exclude_patterns":
 	[
+		"node_modules",
 		".svn",
 		".git",
 		".hg",
@@ -25,6 +26,7 @@
 		"eqeqeq": false,
 		"eqnull": true,
 		"evil": true,
+		"expr": true,
 		"laxbreak": true,
 		"newcap": true,
 		"noarg": true,
@@ -41,6 +43,6 @@
 	},
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": false,
+	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true
 }
