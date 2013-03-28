@@ -31,3 +31,6 @@
 [submodule "Packages/GitGutter"]
 	path = Packages/GitGutter
 	url = git://github.com/jisaacks/GitGutter.git
+[submodule "Packages/DashDoc"]
+	path = Packages/DashDoc
+	url = git://github.com/Kapeli/DashDoc.git

@@ -8,6 +8,7 @@
 	- [CanIUse](https://github.com/Azd325/sublime-text-caniuse) for [CanIUse](http://caniuse.com/) support
 	- [CoffeeScript](https://github.com/jashkenas/coffee-script-tmbundle) for [CoffeeScript](http://coffeescript.org/) support
 	- [ColorPicker](https://github.com/weslly/ColorPicker) for color picking
+	- [DashDoc](https://github.com/Kapeli/DashDoc) for documentation
 	- [Emmet](https://github.com/sergeche/emmet-sublime) for [Emment/Zend-Coding](http://emmet.io) support
 	- [Gist](https://github.com/condemil/Gist) for [Gist](https://gist.github.com/) support
 	- [GitGutter](https://github.com/jisaacks/GitGutter#readme) for inline git visuals
