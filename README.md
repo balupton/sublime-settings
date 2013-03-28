@@ -26,8 +26,8 @@
 
 ### OSX/Linux
 
-- Ubuntu: `cd '~/.config/sublime-text-2'`
-- OSX: `cd '~/Library/Application Support/Sublime Text 2'`
+- Ubuntu: `cd "~/.config/sublime-text-2"`
+- OSX: `cd "~/Library/Application Support/Sublime Text 2"`
 
 ```
 rm ./Packages/User/*
