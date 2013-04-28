@@ -5,6 +5,7 @@
 	"ensure_newline_at_eof_on_save": false,
 	"folder_exclude_patterns":
 	[
+		"node_modules",
 		".svn",
 		".git",
 		".hg",
@@ -19,7 +20,7 @@
 	],
 	"jshint_options":
 	{
-		"asi": true,
+		"asi": false,
 		"boss": true,
 		"browser": true,
 		"eqeqeq": false,
@@ -41,6 +42,7 @@
 	},
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": false,
-	"use_tab_stops": true
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"draw_white_space": "all"
 }
