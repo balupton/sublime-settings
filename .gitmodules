@@ -34,3 +34,12 @@
 [submodule "Packages/DashDoc"]
 	path = Packages/DashDoc
 	url = git://github.com/Kapeli/DashDoc.git
+[submodule "Packages/jQuery"]
+	path = Packages/jQuery
+	url = https://github.com/mrmartineau/jQuery.git
+[submodule "Packages/Git"]
+	path = Packages/Git
+	url = https://github.com/kemayo/sublime-text-2-git.git
+[submodule "Packages/jsFormat"]
+	path = Packages/jsFormat
+	url = https://github.com/jdc0589/JsFormat.git

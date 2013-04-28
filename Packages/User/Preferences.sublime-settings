@@ -26,6 +26,7 @@
 		"eqeqeq": false,
 		"eqnull": true,
 		"evil": true,
+		"expr": true,
 		"laxbreak": true,
 		"newcap": true,
 		"noarg": true,
@@ -43,6 +44,5 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-	"draw_white_space": "all"
+	"use_tab_stops": true
 }
