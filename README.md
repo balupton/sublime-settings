@@ -30,7 +30,7 @@
 - Ubuntu: `cd ~/.config/sublime-text-2`
 - OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 2/`
 
-```
+``` bash
 rm ./Packages/User/*
 git init
 git remote add origin https://github.com/balupton/sublime-settings.git
@@ -44,7 +44,7 @@ git submodule update
 - XP: `cd 'Application Data/Sublime Text 2'`
 - 7+: `cd 'AppData/Roaming/Sublime Text 2'`
 
-```
+``` bash
 rm .\Packages\User\*
 git init
 git remote add origin https://github.com/balupton/sublime-settings.git
@@ -52,6 +52,15 @@ git fetch origin
 git checkout windows
 git submodule init
 git submodule update
+```
+
+### Update
+
+Ensure the submodules are the latest with:
+
+``` bash
+git submodule foreach "git reset --hard; git pull origin master"
+git commit -am "Update submodules to latest"
 ```
 
 
