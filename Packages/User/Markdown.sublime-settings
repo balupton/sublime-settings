@@ -3,6 +3,7 @@
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": true,
-	"word_wrap": false,
+	"word_wrap": true,
+	"wrap_width": 0,
 	"draw_centered": false
 }
