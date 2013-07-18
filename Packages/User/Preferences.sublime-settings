@@ -1,4 +1,5 @@
 {
+	"theme": "Brackets.sublime-theme",
 	"color_scheme": "Packages/Base16/base16-eighties.dark.tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,

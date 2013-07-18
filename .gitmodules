@@ -55,3 +55,6 @@
 [submodule "Packages/SubliminalCollaborator"]
 	path = Packages/SubliminalCollaborator
 	url = https://github.com/nlloyd/SubliminalCollaborator.git
+[submodule "Packages/Theme - Brackets"]
+	path = Packages/Theme - Brackets
+	url = https://github.com/SalvoGentile/brackets-theme.git
