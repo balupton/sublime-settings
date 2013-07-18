@@ -58,3 +58,6 @@
 [submodule "Packages/Theme - Brackets"]
 	path = Packages/Theme - Brackets
 	url = https://github.com/SalvoGentile/brackets-theme.git
+[submodule "Packages/Color Scheme - Br4ckets"]
+	path = Packages/Color Scheme - Br4ckets
+	url = https://github.com/l4ci/Br4ckets-Theme.git
