@@ -61,3 +61,6 @@
 [submodule "Packages/Color Scheme - Br4ckets"]
 	path = Packages/Color Scheme - Br4ckets
 	url = https://github.com/l4ci/Br4ckets-Theme.git
+[submodule "Packages/Handlebars"]
+	path = Packages/Handlebars
+	url = https://github.com/daaain/Handlebars.git
