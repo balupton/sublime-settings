@@ -59,7 +59,7 @@ git submodule update
 Ensure the submodules are the latest with:
 
 ``` bash
-git submodule foreach "git reset --hard; git pull origin master"
+git submodule foreach "git stash; git checkout master; git pull origin master; git stash apply; echo '\n'"
 git commit -am "Update submodules to latest"
 ```
 
