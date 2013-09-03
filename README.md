@@ -35,8 +35,7 @@ rm ./Packages/User/*
 git init
 git remote add origin https://github.com/balupton/sublime-settings.git
 git pull origin master  --force
-git submodule init
-git submodule update
+git submodule init; git submodule update
 ```
 
 ### Windows
@@ -50,8 +49,7 @@ git init
 git remote add origin https://github.com/balupton/sublime-settings.git
 git fetch origin
 git checkout windows
-git submodule init
-git submodule update
+git submodule init; git submodule update
 ```
 
 ### Update
@@ -59,7 +57,8 @@ git submodule update
 Ensure the submodules are the latest with:
 
 ``` bash
-git submodule foreach "git stash; git checkout master; git pull origin master; git stash apply; echo '\n'"
+git submodule init; git submodule update
+git submodule foreach "git reset --hard; git clean -fd; git checkout master; git pull origin master; echo '\n'"
 git commit -am "Update submodules to latest"
 ```
 
