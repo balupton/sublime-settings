@@ -5,6 +5,7 @@
 	"ensure_newline_at_eof_on_save": false,
 	"folder_exclude_patterns":
 	[
+		"node_modules",
 		".svn",
 		".git",
 		".hg",
