@@ -10,9 +10,6 @@
 [submodule "Packages/ApiaryBlueprint"]
 	path = Packages/ApiaryBlueprint
 	url = git://github.com/lkraider/sublimetext2-apiary-blueprint.git
-[submodule "Packages/Emmet"]
-	path = Packages/Emmet
-	url = git://github.com/sergeche/emmet-sublime.git
 [submodule "Packages/ColorPicker"]
 	path = Packages/ColorPicker
 	url = git://github.com/weslly/ColorPicker.git
@@ -52,9 +49,6 @@
 [submodule "Packages/SchemeCycler"]
 	path = Packages/SchemeCycler
 	url = https://github.com/rrerolle/sublime-scheme-cycler.git
-[submodule "Packages/SubliminalCollaborator"]
-	path = Packages/SubliminalCollaborator
-	url = https://github.com/nlloyd/SubliminalCollaborator.git
 [submodule "Packages/Theme - Brackets"]
 	path = Packages/Theme - Brackets
 	url = https://github.com/SalvoGentile/brackets-theme.git
