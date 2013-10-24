@@ -1,4 +1,9 @@
 {
+    "color_scheme": "Packages/Color Scheme - Br4ckets/Br4ckets (Day).tmtheme",
+    "font_face": "Source Code Pro",
+    "line_padding_bottom": 2,
+    "line_padding_top": 2,
+
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": false,
