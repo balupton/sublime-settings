@@ -15,7 +15,8 @@
 	"font_size": 12.0,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
@@ -49,6 +50,5 @@
 	"theme": "Brackets.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-	"ignored_packages": ["Markdown"]
+	"use_tab_stops": true
 }
