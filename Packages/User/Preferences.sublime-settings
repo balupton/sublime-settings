@@ -50,5 +50,6 @@
 	"theme": "Brackets.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true
+	"use_tab_stops": true,
+	"word_wrap": true
 }
