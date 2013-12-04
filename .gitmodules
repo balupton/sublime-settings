@@ -7,42 +7,12 @@
 [submodule "Packages/MarkdownEditing"]
 	path = Packages/MarkdownEditing
 	url = git://github.com/ttscoff/MarkdownEditing.git
-[submodule "Packages/ApiaryBlueprint"]
-	path = Packages/ApiaryBlueprint
-	url = git://github.com/lkraider/sublimetext2-apiary-blueprint.git
-[submodule "Packages/ColorPicker"]
-	path = Packages/ColorPicker
-	url = git://github.com/weslly/ColorPicker.git
-[submodule "Packages/CanIUse"]
-	path = Packages/CanIUse
-	url = git://github.com/Azd325/sublime-text-caniuse.git
-[submodule "Packages/Gist"]
-	path = Packages/Gist
-	url = git://github.com/condemil/Gist.git
-[submodule "Packages/Alignment"]
-	path = Packages/Alignment
-	url = git://github.com/wbond/sublime_alignment.git
 [submodule "Packages/GBK"]
 	path = Packages/GBK
 	url = git://github.com/akira-cn/sublime-gbk.git
 [submodule "Packages/GitGutter"]
 	path = Packages/GitGutter
 	url = git://github.com/jisaacks/GitGutter.git
-[submodule "Packages/DashDoc"]
-	path = Packages/DashDoc
-	url = git://github.com/Kapeli/DashDoc.git
-[submodule "Packages/jQuery"]
-	path = Packages/jQuery
-	url = https://github.com/mrmartineau/jQuery.git
-[submodule "Packages/Git"]
-	path = Packages/Git
-	url = https://github.com/kemayo/sublime-text-2-git.git
-[submodule "Packages/jsFormat"]
-	path = Packages/jsFormat
-	url = https://github.com/jdc0589/JsFormat.git
-[submodule "Packages/Package Control"]
-	path = Packages/Package Control
-	url = https://github.com/wbond/sublime_package_control.git
 [submodule "Packages/Base16"]
 	path = Packages/Base16
 	url = https://github.com/chriskempson/base16-textmate.git
@@ -55,6 +25,3 @@
 [submodule "Packages/Color Scheme - Br4ckets"]
 	path = Packages/Color Scheme - Br4ckets
 	url = https://github.com/l4ci/Br4ckets-Theme.git
-[submodule "Packages/Handlebars"]
-	path = Packages/Handlebars
-	url = https://github.com/daaain/Handlebars.git
