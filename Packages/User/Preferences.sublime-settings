@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Base16/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": false,
@@ -47,7 +47,6 @@
 		"wsh": true
 	},
 	"tab_size": 4,
-	//"theme": "Brackets.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,

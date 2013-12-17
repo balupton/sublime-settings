@@ -25,3 +25,21 @@
 [submodule "Packages/Color Scheme - Br4ckets"]
 	path = Packages/Color Scheme - Br4ckets
 	url = https://github.com/l4ci/Br4ckets-Theme.git
+[submodule "Packages/SublimeLinter-json"]
+	path = Packages/SublimeLinter-json
+	url = https://github.com/SublimeLinter/SublimeLinter-json.git
+[submodule "Packages/SublimeLinter-jshint"]
+	path = Packages/SublimeLinter-jshint
+	url = https://github.com/SublimeLinter/SublimeLinter-jshint.git
+[submodule "Packages/SublimeLinter-csslint"]
+	path = Packages/SublimeLinter-csslint
+	url = https://github.com/SublimeLinter/SublimeLinter-csslint.git
+[submodule "Packages/SublimeLinter-coffeelint"]
+	path = Packages/SublimeLinter-coffeelint
+	url = https://github.com/SublimeLinter/SublimeLinter-coffeelint.git
+[submodule "Packages/SublimeLinter-coffee"]
+	path = Packages/SublimeLinter-coffee
+	url = https://github.com/SublimeLinter/SublimeLinter-coffee.git
+[submodule "Packages/SublimeLinter"]
+	path = Packages/SublimeLinter
+	url = https://github.com/SublimeLinter/SublimeLinter3.git
