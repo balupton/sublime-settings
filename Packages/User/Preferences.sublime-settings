@@ -23,28 +23,31 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"jshint_options":
+	"linters":
 	{
-		"asi": false,
-		"boss": true,
-		"browser": true,
-		"eqeqeq": false,
-		"eqnull": true,
-		"evil": true,
-		"expr": true,
-		"laxbreak": true,
-		"newcap": true,
-		"noarg": true,
-		"node": true,
-		"onecase": false,
-		"onevar": false,
-		"regexdash": true,
-		"smarttabs": true,
-		"strict": false,
-		"sub": true,
-		"trailing": true,
-		"undef": true,
-		"wsh": true
+		"jshint":
+		{
+			"asi": false,
+			"boss": true,
+			"browser": true,
+			"eqeqeq": false,
+			"eqnull": true,
+			"evil": true,
+			"expr": true,
+			"laxbreak": true,
+			"newcap": true,
+			"noarg": true,
+			"node": true,
+			"onecase": false,
+			"onevar": false,
+			"regexdash": true,
+			"smarttabs": true,
+			"strict": false,
+			"sub": true,
+			"trailing": true,
+			"undef": true,
+			"wsh": true
+		}
 	},
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
