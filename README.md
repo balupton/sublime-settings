@@ -1,4 +1,4 @@
-# [Benjamin Lupton's](http://balupton.com) [Sublime Text 2](http://www.sublimetext.com/2) Settings
+# [Benjamin Lupton's](http://balupton.com) [Sublime Text](http://www.sublimetext.com) Settings
 
 ## Packages
 
@@ -13,8 +13,8 @@
 
 ### OSX/Linux
 
-- Ubuntu: `cd ~/.config/sublime-text-2`
-- OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 2/`
+- Ubuntu: `cd ~/.config/sublime-text-3`
+- OSX: `cd ~/Library/Application\ Support/Sublime\ Text\ 3/`
 
 ``` bash
 rm ./Packages/User/*
@@ -26,8 +26,8 @@ git submodule init; git submodule update
 
 ### Windows
 
-- XP: `cd 'Application Data/Sublime Text 2'`
-- 7+: `cd 'AppData/Roaming/Sublime Text 2'`
+- XP: `cd 'Application Data/Sublime Text 3'`
+- 7+: `cd 'AppData/Roaming/Sublime Text 3'`
 
 ``` bash
 rm .\Packages\User\*
