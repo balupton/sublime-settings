@@ -1,18 +1,18 @@
 [submodule "Packages/CoffeeScript"]
 	path = Packages/CoffeeScript
-	url = git://github.com/jashkenas/coffee-script-tmbundle.git
+	url = https://github.com/jashkenas/coffee-script-tmbundle.git
 [submodule "Packages/SublimeLinter3"]
 	path = Packages/SublimeLinter3
 	url = https://github.com/SublimeLinter/SublimeLinter3.git
 [submodule "Packages/MarkdownEditing"]
 	path = Packages/MarkdownEditing
-	url = git://github.com/ttscoff/MarkdownEditing.git
+	url = https://github.com/ttscoff/MarkdownEditing.git
 [submodule "Packages/GBK"]
 	path = Packages/GBK
-	url = git://github.com/akira-cn/sublime-gbk.git
+	url = https://github.com/akira-cn/sublime-gbk.git
 [submodule "Packages/GitGutter"]
 	path = Packages/GitGutter
-	url = git://github.com/jisaacks/GitGutter.git
+	url = https://github.com/jisaacks/GitGutter.git
 [submodule "Packages/Base16"]
 	path = Packages/Base16
 	url = https://github.com/chriskempson/base16-textmate.git
@@ -43,3 +43,6 @@
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = https://github.com/SublimeLinter/SublimeLinter3.git
+[submodule "Packages/Br4ckets-Theme"]
+	path = Packages/Br4ckets-Theme
+	url = https://github.com/l4ci/Br4ckets-Theme.git
