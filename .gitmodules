@@ -46,3 +46,6 @@
 [submodule "Packages/Br4ckets-Theme"]
 	path = Packages/Br4ckets-Theme
 	url = https://github.com/l4ci/Br4ckets-Theme.git
+[submodule "Packages/EditorConfig"]
+	path = Packages/EditorConfig
+	url = https://github.com/sindresorhus/editorconfig-sublime.git

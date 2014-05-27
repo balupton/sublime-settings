@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/base16-bright.light (SL).tmTheme",
+	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": false,
@@ -24,11 +24,12 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"index_files": false,
 	"linters":
 	{
 		"jshint":
 		{
-			"asi": false,
+			"asi": true,
 			"boss": true,
 			"browser": true,
 			"eqeqeq": false,
@@ -52,8 +53,8 @@
 	},
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": true,
 	"word_wrap": true,
-    "index_files": false
+	"index_files": false
 }
