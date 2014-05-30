@@ -49,3 +49,6 @@
 [submodule "Packages/EditorConfig"]
 	path = Packages/EditorConfig
 	url = https://github.com/sindresorhus/editorconfig-sublime.git
+[submodule "Packages/Spacegray"]
+	path = Packages/Spacegray
+	url = https://github.com/kkga/spacegray.git
