@@ -1,5 +1,9 @@
 {
-	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_normal": true,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_large": true,
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": false,
@@ -52,6 +56,7 @@
 		}
 	},
 	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": true,
