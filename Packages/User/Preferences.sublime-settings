@@ -1,8 +1,4 @@
 {
-	"spacegray_sidebar_font_normal": true,
-	"spacegray_sidebar_tree_normal": true,
-	"spacegray_tabs_font_normal": true,
-	"spacegray_tabs_large": true,
 	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
@@ -55,6 +51,10 @@
 			"wsh": true
 		}
 	},
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_normal": true,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_large": true,
 	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": false,
