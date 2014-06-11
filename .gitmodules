@@ -52,6 +52,3 @@
 [submodule "Packages/Theme - Spacegray"]
 	path = Packages/Theme - Spacegray
 	url = https://github.com/kkga/spacegray.git
-[submodule "Packages/Colorcoder"]
-	path = Packages/Colorcoder
-	url = https://github.com/vprimachenko/Sublime-Colorcoder.git
